@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Zumo de naranja 1",
+    "description": "Llénate de vitaminas",
+    "image": "/images/orange.jpg",
+    "rewarded": true
+  },
+  {
+    "id": 2,
+    "title": "Zumo de naranja 2",
+    "description": "Llénate de vitaminas",
+    "image": "/images/orange.jpg",
+    "rewarded": false
+  },
+  {
+    "id": 3,
+    "title": "Zumo de naranja 3",
+    "description": "Llénate de vitaminas",
+    "image": "/images/orange.jpg",
+    "rewarded": true
+  },
+  {
+    "id": 4,
+    "title": "Zumo de naranja 4",
+    "description": "Llénate de vitaminas",
+    "image": "/images/orange.jpg",
+    "rewarded": true
+  },
+  {
+    "id": 5,
+    "title": "Zumo de naranja 5",
+    "description": "Llénate de vitaminas",
+    "image": "/images/orange.jpg",
+    "rewarded": true
+  }
+]

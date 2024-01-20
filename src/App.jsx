@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Counter from './components/Counter'
+import List from './components/List';
 import './App.css'
 
 function App() {
@@ -12,10 +13,12 @@ function App() {
   }
 
   return (
-    <div>
+    <div className="container mt-4">
       <input type="text" value={search} onChange={onChangeSearch} />
 
       <Counter />
+
+      <List />
     </div>
   )
 }
